@@ -1,0 +1,36 @@
+#countlabel{
+    display:block;
+    text-align: center;
+    font-size: 50px;
+    
+
+}
+
+#desc{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left:600px;
+    background-color: brown;
+   
+    
+}
+
+#inc{
+    text-align: center;
+    font-size: 30px;
+     margin-top: 50px;
+     margin-left: 5px;
+     background-color: chartreuse;
+    
+    
+
+}
+#reset{
+    text-align: center;
+    font-size: 30px;
+    margin-left:5px ;
+    margin-top: 50px;
+    background-color:blueviolet;
+
+}
